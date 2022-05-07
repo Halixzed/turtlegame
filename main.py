@@ -18,6 +18,8 @@ for step in range(15):
     left(90)
     forward(20)
 
+
+#if you want to change the position of the finishing line you can change the goto parameters below:
 goto(200, 250)
 write("FinishLine", align='center')
 pendown()
