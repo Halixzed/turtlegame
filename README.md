@@ -1,2 +1,1 @@
-# turtlegame
-university project. programming fundamentals
+#README
