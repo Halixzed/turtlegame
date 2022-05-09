@@ -9,6 +9,7 @@ for step in range(15):
     write(step, align='center')
     right(90)
     for num in range(8):
+        # remove the line below to get rid of dotted effect
         penup()
         forward(10)
         pendown()
